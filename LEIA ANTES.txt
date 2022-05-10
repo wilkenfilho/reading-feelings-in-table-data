@@ -1,0 +1,5 @@
+o arquivo deve ser rodado no jupyter anaconda ou no google colabs
+fiz o teste e funcionou em ambos.
+o analise de sentimentos está voltado para a tabela exportada do site https://netlytic.org/index.php
+peço que coloquem meu nome e o link do github nos creditos.
+abracos
